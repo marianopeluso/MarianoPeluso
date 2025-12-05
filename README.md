@@ -6,13 +6,13 @@ Nostr: npub1pfdwpvldvxjauc52qr5pree0endaszw4pa27j0eaenjensme3a5qukncr7
 
 ---
 
-After years of consulting with organizations on their challenges, I've spent a lot of time listening to what people actually struggle with—not what vendors tell them they need.
+After years of helping organizations work through their challenges, I’ve spent most of my time listening to what people actually struggle with—not what vendors say they should care about.
 
-I noticed patterns. The same problems kept coming up.
+Over time, the same patterns kept coming back.
 
-I don't have a technical background—I'm not a developer. But I'm passionate about technology, I can read code, and I've had a personal website since the 90s.
+I’m not a developer by training, but I’ve always been into technology. I can read code, understand how things fit together, and I’ve been running my own website since the ’90s.
 
-Thanks to automation, unlocking the technical gap, I try to bridge problems and solutions with easy, useful tools.
+Today, with automation lowering many barriers, I focus on connecting real problems with simple, practical tools that people can actually use.
 
 ---
 
