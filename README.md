@@ -57,8 +57,6 @@ After listening to these problems, I started thinking about what actually matter
 
 ## 💡 The Approach
 
-Each tool tries to be:
-
 **Multiplatform** - Works on Windows, Linux, and macOS.
 
 **Transparent** - Open source. You can read the code. Security researchers can verify it.  
