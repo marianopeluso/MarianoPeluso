@@ -18,7 +18,7 @@ My background is not engineering-first, but **analysis- and meaning-first**: I f
 
 More about my professional work and consulting activity:
 
-🌐 https://peluso.pro
+🌐 [peluso.pro](https://peluso.pro)
 ---
 
 ## Writing & research
@@ -26,7 +26,7 @@ More about my professional work and consulting activity:
 Alongside my consulting work, I publish essays and papers in more reflective and research-oriented contexts.
 My publications are available via ORCID:  
 
-🔗 https://orcid.org/0009-0009-8834-4740
+🔗 [ORCID profile](https://orcid.org/0009-0009-8834-4740)
 ---
 
 ## Why I’m on GitHub
@@ -94,6 +94,7 @@ If you’re curious about:
 - or simply exchanging ideas  
 
 Feel free to explore the repositories or reach out if you’re interested in conversations at the intersection of strategy, technology, and meaning.
+
 
 
 
