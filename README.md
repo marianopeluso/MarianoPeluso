@@ -17,13 +17,15 @@ I work with organizations and professionals on:
 My background is not engineering-first, but **analysis- and meaning-first**: I focus on how systems are understood, communicated, trusted, and adopted.
 
 More about my professional work and consulting activity:
+
 🌐 https://peluso.pro
 ---
 
 ## Writing & research
 
-Alongside my consulting work, I publish essays and papers in more reflective and research-oriented contexts.  
+Alongside my consulting work, I publish essays and papers in more reflective and research-oriented contexts.
 My publications are available via ORCID:  
+
 🔗 https://orcid.org/0009-0009-8834-4740
 ---
 
@@ -92,5 +94,6 @@ If you’re curious about:
 - or simply exchanging ideas  
 
 Feel free to explore the repositories or reach out if you’re interested in conversations at the intersection of strategy, technology, and meaning.
+
 
 
