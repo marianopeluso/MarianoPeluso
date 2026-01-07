@@ -19,6 +19,7 @@ My background is not engineering-first, but **analysis- and meaning-first**: I f
 More about my professional work and consulting activity:
 
 🌐 [peluso.pro](https://peluso.pro)
+
 ---
 
 ## Writing & research
@@ -27,6 +28,11 @@ Alongside my consulting work, I publish essays and papers in more reflective and
 My publications are available via ORCID:  
 
 🔗 [ORCID profile](https://orcid.org/0009-0009-8834-4740)
+
+I also contribute to independent editorial projects.
+
+🔗 [Libertas Numeris](https://www.libertasnumeris.org) — an online magazine on economic sovereignty, freedom, and ideas.
+
 ---
 
 ## Why I’m on GitHub
@@ -94,6 +100,7 @@ If you’re curious about:
 - or simply exchanging ideas  
 
 Feel free to explore the repositories or reach out if you’re interested in conversations at the intersection of strategy, technology, and meaning.
+
 
 
 
