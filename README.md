@@ -64,7 +64,6 @@ These projects are publicly available tools, developed as open, free resources f
 - 📎 **QrVaultLink**  
   Experiments around secure, offline-friendly sharing through QR-based workflows.
 
-These projects are not commercial products — they are **thinking tools**.
 
 ---
 
@@ -99,6 +98,7 @@ If you’re curious about:
 - or simply exchanging ideas  
 
 Feel free to explore the repositories or reach out if you’re interested in conversations at the intersection of strategy, technology, and meaning.
+
 
 
 
