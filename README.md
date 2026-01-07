@@ -31,7 +31,7 @@ My publications are available via ORCID:
 
 I also contribute to independent editorial projects.
 
-🔗 [Libertas Numeris](https://www.libertasnumeris.org) — an online magazine on economic sovereignty, freedom, and ideas.
+📘 [Libertas Numeris](https://www.libertasnumeris.org) — an online magazine on economic sovereignty, freedom, and ideas.
 
 ---
 
@@ -100,6 +100,7 @@ If you’re curious about:
 - or simply exchanging ideas  
 
 Feel free to explore the repositories or reach out if you’re interested in conversations at the intersection of strategy, technology, and meaning.
+
 
 
 
