@@ -51,10 +51,9 @@ This GitHub profile sits between my consulting work and my writing: a space to t
 
 ---
 
-## Selected experiments
+## Selected open projects
 
-The following repositories are small-scale experiments designed to explore ideas rather than deliver finished products.
-
+These projects are publicly available tools, developed as open, free resources for the community.
 
 - 🔊 **SonarLink**  
   Exploring encrypted file and message transfer using sound as a physical medium, outside traditional network layers.
@@ -100,6 +99,7 @@ If you’re curious about:
 - or simply exchanging ideas  
 
 Feel free to explore the repositories or reach out if you’re interested in conversations at the intersection of strategy, technology, and meaning.
+
 
 
 
