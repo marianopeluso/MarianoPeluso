@@ -99,6 +99,10 @@ If you’re curious about:
 
 Feel free to explore the repositories or reach out if you’re interested in conversations at the intersection of strategy, technology, and meaning.
 
+Public key (npub):  
+`npub1pfdwpvldvxjauc52qr5pree0endaszw4pa27j0eaenjensme3a5qukncr7`
+
+
 
 
 
